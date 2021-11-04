@@ -18,5 +18,8 @@ public class Main {
 
         newUser.setNama("Hari");
         newUser.setHP("08138656");
+
+        newUser.setNama("Tono");
+        newUser.setHP("08145618");
     }
 }
