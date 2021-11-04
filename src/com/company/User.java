@@ -19,4 +19,8 @@ public class User {
     public void setNama(String nama) {
         this.nama = nama;
     }
+
+    public String getInfo(){
+        return "Halo saya,"+this.nama;
+    }
 }
