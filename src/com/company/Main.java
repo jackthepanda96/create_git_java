@@ -15,5 +15,8 @@ public class Main {
         newTest.setCoverage(50);
 
         System.out.println(newTest);
+
+        newUser.setNama("Hari");
+        newUser.setHP("08138656");
     }
 }
