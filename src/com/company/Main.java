@@ -10,5 +10,10 @@ public class Main {
         newUser.setHP("0813123456");
 
         System.out.println(newUser.getInfo());
+
+        TestingFitur1 newTest = new TestingFitur1();
+        newTest.setCoverage(50);
+
+        System.out.println(newTest);
     }
 }
